@@ -66,13 +66,3 @@ Accurate classification between dent and crack
 Automatic generation of captions describing the damage
 
 Combined visual + textual outputs for enhanced interpretability
-
-🚀 Future Improvements
-
-Add more damage categories
-
-Train a custom Transformer for more aviation-specific captions
-
-Deploy model as a web or mobile app
-
-Integrate with real-time inspection cameras
